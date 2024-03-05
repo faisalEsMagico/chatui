@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:8px 10px;
+    background-color: #F3F3F4;
+}
+
+.language{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.navbarHeading{
+    color: #E08D2D;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: Roboto-medium;
+}
